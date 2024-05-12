@@ -163,6 +163,12 @@
     background: linear-gradient(45deg, #f06, #3cf);
     z-index: 1;
     margin: 20px 0;
+    
+}
+.home-sci a img{
+    height: 32px;
+    width: 32px;
+    border-radius: 50px;
 }
 
 .home-sci a:nth-child(1) {
@@ -273,11 +279,11 @@
 
 .image img {
     position: absolute;
-    top: -6px;
+    top: -10px;
     max-width: 395px;
     object-fit: cover;
     transform: translateX(-50%);
-    left: 54%;
+    left: 48%;
 }
 
 /* KEYFRAMES ANIMATION */
