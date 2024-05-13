@@ -163,9 +163,10 @@
     background: linear-gradient(45deg, #f06, #3cf);
     z-index: 1;
     margin: 20px 0;
-    
+
 }
-.home-sci a img{
+
+.home-sci a img {
     height: 32px;
     width: 32px;
     border-radius: 50px;
@@ -574,6 +575,8 @@ nav.bx {
         width: 111%;
     }
 
+  
+
     .logo {
         font-size: 20px;
     }
@@ -584,6 +587,7 @@ nav.bx {
         margin-right: -20%;
 
     }
+ 
 
     .navbar a {
         font-size: 20px;
@@ -592,7 +596,7 @@ nav.bx {
 
     .image img {
         margin-top: 20%;
-        max-width: 278px;
+        max-width: 246px;
         border-radius: 50%;
         left: 50%;
     }
@@ -644,9 +648,12 @@ nav.bx {
     }
 
     .about-col-1 span {
-        width: 359px;
-        left: 94px;
+        width: 357px;
+        left: 60px;
         height: 522px;
+    }
+    .about-col-2 span{
+        flex-basis: 52%;
     }
 }
 
@@ -844,7 +851,6 @@ nav.bx {
     .home-content h1 {
         font-size: 50px;
     }
-    .about-col-1 span{
-        
-    }
+
+    .about-col-1 span {}
 }
